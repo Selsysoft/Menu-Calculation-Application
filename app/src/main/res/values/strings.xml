@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpinUyg</string>
+    <array name="icecekler">
+        <item>Çay</item>
+        <item>Türk Kahvesi</item>
+        <item>Nescafe</item>
+        <item>Kola</item>
+    </array>
+</resources>
